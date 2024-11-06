@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend Development in Java with DXC Technologies<br>🌱 I’m currently learning AWS Cloud and Azure Data fundamentals<br>💬 Ask me about Java, Python, or cloud<br>⚡ Fun fact If I feel excited to work with a project I lose track of time when I start doing it.
+🔭 I’m currently working on AI chatbots and raspberry pi modules<br>🌱 I’m currently learning AWS Cloud and Azure Data fundamentals<br>💬 Ask me about Java, Python, or cloud<br>⚡ Fun fact If I feel excited to work with a project I lose track of time when I start doing it.
 
 
 ## 🌐 Socials:
